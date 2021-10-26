@@ -37,7 +37,7 @@ export const SidebarChatItem = ({ user }) => {
       <div className="chat_people">
         <div className="chat_img">
           <img
-            src="https://p.kindpng.com/picc/s/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png"
+            src="https://image.flaticon.com/icons/png/512/206/206899.png"
             alt="sunil"
           />
         </div>

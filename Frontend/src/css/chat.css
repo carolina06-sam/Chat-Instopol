@@ -40,11 +40,11 @@ img {
 .headind_srch {
   padding: 20px;
   overflow: hidden;
-  background-color: #3d64ff;
+  background-color: rgb(255, 164, 45);
 }
 
 .recent_heading h4 {
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 18px;
   font-weight: 500;
   margin: auto;
@@ -236,8 +236,8 @@ textarea {
 }
 
 .alert-info {
-  background-color: #3d64ff;
-  color: white;
+  background-color: rgb(255, 164, 45);
+  color: rgb(0, 0, 0);
   padding-bottom: 20px;
 }
 

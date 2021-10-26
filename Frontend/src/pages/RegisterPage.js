@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 
 import { AuthContext } from "../auth/AuthContext";
-import img from "./insto.png";
+import img from "./into.png";
 
 export const RegisterPage = () => {
     const { register } = useContext(AuthContext);

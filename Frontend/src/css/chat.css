@@ -1,7 +1,9 @@
 html,
+
 body {
   height: 100vh;
   margin: 0;
+  background-color:rgb(240, 225, 202)
 }
 
 img {

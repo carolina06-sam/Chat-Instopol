@@ -12,7 +12,11 @@ export const SocketContext = createContext();
 
 export const SocketProvider = ({ children }) => {
     const { socket, online, conectarSocket, desconectarSocket } = useSocket(
+<<<<<<< HEAD
         "https://react-chat-intepcol.herokuapp.com/"
+=======
+        "https://backchat1.herokuapp.com"
+>>>>>>> 5dfc5641bb7c1ff6e1e1010289bdee37dfbe0a11
     );
     const { auth } = useContext(AuthContext);
     const { dispatch } = useContext(ChatContext);
